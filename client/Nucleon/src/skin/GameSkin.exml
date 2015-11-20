@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="1136" height="640" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+<e:State name="normal"/>
+<e:State name="disabled"/>
+</e:states>
+	<e:Button id="pauseBtn" skinName="@ButtonSkin('ui_game_game_json.pause_btn','ui_game_game_json.pause_btn1','ui_game_game_json.pause_btn')" top="30" right="50"/>
+	<e:UIAsset source="level" x="2" y="-3"/>
+</e:Skin>

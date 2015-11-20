@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="1136" height="640" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+<e:State name="normal"/>
+<e:State name="disabled"/>
+</e:states>
+	<e:UIAsset source="ui_login_login_json.bg" horizontalCenter="0" verticalCenter="0"/>
+	<e:UIAsset source="ui_login_login_json.setting_btn" left="39" top="27"/>
+	<e:UIAsset source="ui_login_login_json.record_label" right="39" top="4"/>
+	<e:Button id="startBtn" skinName="@ButtonSkin('ui_login_login_json.start_btn','ui_login_login_json.start_btn1','ui_login_login_json.start_btn')" bottom="-200" horizontalCenter="0" />
+</e:Skin>

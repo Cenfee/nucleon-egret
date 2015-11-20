@@ -1,0 +1,6 @@
+{"file":"game.png","frames":{
+"bg":{"x":1,"y":1,"w":1605,"h":1155,"offX":270,"offY":0,"sourceW":1883,"sourceH":1192},
+"items_bg":{"x":1,"y":1158,"w":861,"h":600,"offX":0,"offY":22,"sourceW":861,"sourceH":644},
+"level":{"x":1,"y":1760,"w":180,"h":136,"offX":39,"offY":28,"sourceW":258,"sourceH":175},
+"pause_btn":{"x":1,"y":1898,"w":99,"h":87,"offX":0,"offY":0,"sourceW":99,"sourceH":87},
+"pause_btn1":{"x":102,"y":1898,"w":91,"h":81,"offX":4,"offY":3,"sourceW":99,"sourceH":87}}}
